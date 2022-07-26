@@ -1,5 +1,5 @@
 repos:
-  - repo: https://github.com/hbrach/backendDev/new/feature/backendDev
+  - repo: https://github.com/hbrach/backendDev
     rev: v1.0.0
     hooks:
       - id: pre_commit_hook
