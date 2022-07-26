@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/hbrach/backendDev
-    rev: v1.0.0
+    rev: 1.0.0
     hooks:
       - id: pre_commit_hook
         stages: [commit]
